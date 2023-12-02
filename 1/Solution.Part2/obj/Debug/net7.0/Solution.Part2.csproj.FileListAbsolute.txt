@@ -1,0 +1,15 @@
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/bin/Debug/net7.0/Solution.Part2
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/bin/Debug/net7.0/Solution.Part2.deps.json
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/bin/Debug/net7.0/Solution.Part2.runtimeconfig.json
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/bin/Debug/net7.0/Solution.Part2.dll
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/bin/Debug/net7.0/Solution.Part2.pdb
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/Solution.Part2.csproj.AssemblyReference.cache
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/Solution.Part2.GeneratedMSBuildEditorConfig.editorconfig
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/Solution.Part2.AssemblyInfoInputs.cache
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/Solution.Part2.AssemblyInfo.cs
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/Solution.Part2.csproj.CoreCompileInputs.cache
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/Solution.Part2.dll
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/refint/Solution.Part2.dll
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/Solution.Part2.pdb
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/Solution.Part2.genruntimeconfig.cache
+/home/borab/Projects/AdventOfCode23/1/Solution.Part2/obj/Debug/net7.0/ref/Solution.Part2.dll
